@@ -6,7 +6,7 @@ anisotime is a utility package mainly to compute travel time in a laterally homo
 
 ### For macOS or Linux users:
  
-Please download [this][anisosh] and run as below:
+Please run as below:
 
     //When you want to download the file under /path/to 
     $ anisotime=/path/to/anisotime
