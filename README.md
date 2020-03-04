@@ -1,10 +1,4 @@
 # anisotime
-![version][version-image]
-[ ![release][release-image] ][release]
-[ ![aLicense][alicense-image] ][alicense]
-[ ![oLicense][olicense-image] ][olicense]
-[ ![Java8][Java8-image] ][Java8] 
-
 
 anisotime is a utility package mainly to compute travel time in a laterally homogeneous, transversely isotropic (TI), spherically symmetric medium.
 
