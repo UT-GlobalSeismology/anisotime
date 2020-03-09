@@ -4,6 +4,8 @@ anisotime is a utility package mainly to compute travel time in a laterally homo
 
 # INSTALLATION
 
+The jar file is [here](http://bit.ly/2PWypQY)
+
 ### For macOS or Linux users:
  
 Please run as below:
@@ -17,7 +19,8 @@ Please run as below:
 ### For Windows users:
 
 Please [check](https://bit.ly/2r9KA3J) if you have Java Runtime Environment.
-Batch file for Windows can be downloaded [here][anisobatch].
+You might want to run [this](https://bit.ly/39Bh87U) to check further.
+Batch file for Windows can be downloaded [here](https://bit.ly/2QUnqJr).
 
     // You can easily get this path when you drag and drop the file on the prompt.
     $ "/path/of/anisotime.bat" (options)
