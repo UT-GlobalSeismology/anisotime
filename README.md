@@ -1,5 +1,12 @@
 # anisotime
 
+
+![version](https://img.shields.io/badge/version-1.3.7-yellow.svg)
+![release](https://img.shields.io/badge/release-Eulmore-yellow.svg)
+![aLicense](https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat)
+![oLicense](https://img.shields.io/badge/license-Oracle-blue.svg?style=flat)
+![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
+
 anisotime is a utility package mainly to compute travel time in a laterally homogeneous, transversely isotropic (TI), spherically symmetric medium.
 
 # INSTALLATION
