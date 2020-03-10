@@ -46,8 +46,15 @@ Hereinafter, ```/path/to/Kibrary/bin``` is assumed to be in PATH.
 If you want to use *anisotime* in its GUI mode, execute *anisotime* as below:
 ``` bash
 //GUI mode runs when you activate ANISOtime without any options.
-anisotime
+anisotime //Linux macOS
 ```
+
+```windows
+anisotime.bat //Windows
+```
+
+Hereinafter, Windows users might as well to replace ```anisotime``` as ```anisotime.bat``` as above.
+
 
 ## CLI
 When you add arguments in the command of the above execution for the GUI mode,
