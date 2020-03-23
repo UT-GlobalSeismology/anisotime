@@ -25,7 +25,7 @@ Please run as below:
 
 ### For Windows users:
 
-Please [check](https://bit.ly/2r9KA3J) if you have Java Runtime Environment.
+Please [check](https://java.com/ja/download/installed8.jsp) if you have Java Runtime Environment.
 Batch file for Windows can be downloaded [here](https://bit.ly/2QUnqJr).
 
     // You can easily get this path when you drag and drop the file on the prompt.
