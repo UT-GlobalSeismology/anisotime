@@ -106,3 +106,8 @@ anisotime -rs start,end,interval -ph P,S -mod prem -o /path/to/out
 ```
 Without ```-o```, it shows the result in the standard output.
 
+
+###Copyright
+ANISOtime 1.3.7.16b (Eulmore) Copyright © 2015-2020 Kensuke Konishi, Anselme Bourgeaud, Kenji Kawai and Robert J. Geller 
+
+ 
