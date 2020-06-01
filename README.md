@@ -19,7 +19,7 @@ Please run as below:
 
     //When you want to download the file under /path/to 
     $ anisotime=/path/to/anisotime
-    $ wget -O $anisotime https://bit.ly/2XI9KT7 || curl -L -o $anisotime https://bit.ly/2XI9KT7
+    $ wget -q -O $anisotime https://bit.ly/2XI9KT7 || curl -sL -o $anisotime https://bit.ly/2XI9KT7
     $ chmod +x $anisotime
     $ $anisotime (OPTIONS)
 
