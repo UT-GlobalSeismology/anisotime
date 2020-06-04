@@ -12,6 +12,7 @@ anisotime is a utility package mainly to compute travel time in a laterally homo
 # INSTALLATION
 
 The jar file is [here](http://bit.ly/2PWypQY). It is for users familiar with running Java.
+Examples are prepared for users os [Windows](#for-windows-users), [macOS and Linux](#for-macos-or-linux-users).
 
 ### For macOS or Linux users:
  
