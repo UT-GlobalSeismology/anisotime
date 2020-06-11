@@ -7,12 +7,16 @@
 ![oLicense](https://img.shields.io/badge/license-Oracle-blue.svg?style=flat)
 ![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
 
-anisotime is a utility package mainly to compute travel time in a laterally homogeneous, transversely isotropic (TI), spherically symmetric medium.
+ANISOtime is a utility package mainly to compute travel time in a laterally homogeneous,
+transversely isotropic (TI), spherically symmetric medium.
+
+
+Please [check](https://java.com/ja/download/installed8.jsp) if you have Java Runtime Environment (8+). 
+It is required to run ANISOtime.
 
 # INSTALLATION
 
-The jar file is [here](http://bit.ly/2PWypQY). It is for users familiar with running Java.
-Examples are prepared for users os [Windows](#for-windows-users), [macOS and Linux](#for-macos-or-linux-users).
+For users [Windows](#for-windows-users), [macOS and Linux](#for-macos-or-linux-users).
 
 ### For macOS or Linux users:
  
@@ -26,7 +30,6 @@ Please run as below:
 
 ### For Windows users:
 
-Please [check](https://java.com/ja/download/installed8.jsp) if you have Java Runtime Environment.
 Batch file for Windows can be downloaded [here](https://bit.ly/2QUnqJr).
 
     // You can easily get this path when you drag and drop the file on the prompt.
