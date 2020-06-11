@@ -50,11 +50,11 @@ Hereinafter, ```/path/to/Kibrary/bin``` is assumed to be in PATH.
 If you want to use *anisotime* in its GUI mode, execute *anisotime* as below:
 ``` bash
 //GUI mode runs when you activate ANISOtime without any options.
-anisotime //Linux macOS
+ $ anisotime //Linux macOS
 ```
 
 ```windows
-anisotime.bat //Windows
+ $ anisotime.bat //Windows
 ```
 
 Hereinafter, Windows users might as well to replace ```anisotime``` as ```anisotime.bat``` as above.
@@ -89,24 +89,61 @@ it works as CLI.
 
 For instance, if you want to see the usage, you can execute as below:
 ``` bash
-anisotime -help
+ $ anisotime -help
 ```
+
+Examples
+```
+ $ /path/to/anisotime -h 10 -mod prem -deg 60 
+```
+
+```
+ $ /path/to/anisotime -h 10 -mod prem -deg 10 -ph P 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod iprem -deg 100 -ph Pdiff 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph P,S 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph ScS –rs –o \path\to\scs.rcs 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod prem -deg 30 -ph S -SH 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod prem -deg 30 -ph S -SV 
+```
+
+```
+ $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph P,S -eps -o \path\to\out 
+```
+  
+
+
+
 
 ### Catalog creation
 If you want to create a database of raypath set that shortens the time for travel time computation,
 ``` bash
-anisotime -mod prem
+ $ anisotime -mod prem
 ```
 it creates a catalog and the catalog is used from the next use.  
 If you want to specify a catalog for the raypath computation:
 ``` bash
-anisotime -rc /path/to/catalog -deg 60 -ph S
+ $ anisotime -rc /path/to/catalog -deg 60 -ph S
 ```
 
 ### Record section
 If you want to create P and S wave record sections for an epicentral distance range ```start``` to ```end``` with interval ```interval``` and let the results in ```/path/to/out``` (must not exist before the launch),
 ```bash
-anisotime -rs start,end,interval -ph P,S -mod prem -o /path/to/out
+ $ anisotime -rs start,end,interval -ph P,S -mod prem -o /path/to/out
 ```
 Without ```-o```, it shows the result in the standard output.
 
