@@ -97,34 +97,40 @@ For instance, if you want to see the usage, you can execute as below:
 ```$``` is a prompt. ```anisotime``` should be in PATH, otherwise it should be replaced as ```/path/to/anisotime```
 ```
  $ anisotime -h 10 -mod prem -deg 60 
-```
-
-```
- $ anisotime -h 30 -mod prem -deg 30 -ph S -SH 
-```
-
-```
- $ anisotime -h 30 -mod prem -deg 30 -ph S -SV 
+# this command returns values for raypaths with epicentral distance of 60 deg from an event (depth 10 km) under the anisotropic PREM structure.
 ```
 
 ```
  $ anisotime -h 10 -mod prem -deg 10 -ph P 
+# this command returns values for P phase with epicentral distance of 10 deg from an event (depth 10 km) under the anisotropic PREM structure.
+```
+
+```
+ $ anisotime -h 30 -mod prem -deg 30 -ph S -SH 
+# this command returns values for S phase raypaths with epicentral distance of 30 deg from an event (depth 30 km) under the anisotropic PREM structure. 
+# When -SH option is set, returning values are of SH waves.
+ $ anisotime -h 30 -mod prem -deg 30 -ph S -SV 
+# When -SV option is set, returning values are of SV waves.
 ```
 
 ```
  $ anisotime -h 30 -mod iprem -deg 100 -ph Pdiff 
+# this command returns values for Pdiff phase with epicentral distance of 100 deg from an event (depth 30 km) under the isotropic PREM structure.  
 ```
 
 ```
  $ anisotime -h 30 -mod iprem -deg 30 -ph P,S 
+# this command returns values for P and S phase with epicentral distance of 30 deg from an event (depth 30 km) under the isotropic PREM structure.
 ```
 
 ```
- $ anisotime -h 30 -mod iprem -deg 30 -ph ScS –rs –o \path\to\scs.rcs 
+ $ anisotime -h 30 -mod iprem -ph ScS -rs 30,50,1 -o scs.rcs 
+# this command creates a file scs.rcs which includes record section values for ScS phase with epicentral distances of 30 to 50 deg with interval of 1 deg from an event (depth 30 km) under the isotropic PREM structure.
 ```
 
 ```
- $ anisotime -h 30 -mod iprem -deg 30 -ph P,S -eps -o \path\to\out 
+ $ anisotime -h 30 -mod iprem -deg 30 -ph P,S -eps -o out 
+# this command creates raypath figures under the folder out for P and S phases with epicentral distance of 30 deg from an event (depth 30 km) under the isotropic PREM structure.
 ```
   
 
