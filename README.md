@@ -93,36 +93,37 @@ For instance, if you want to see the usage, you can execute as below:
 ```
 
 Examples
+```$``` is a prompt. ```anisotime``` should be in PATH, otherwise it should be replaced as ```/path/to/anisotime```
 ```
- $ /path/to/anisotime -h 10 -mod prem -deg 60 
-```
-
-```
- $ /path/to/anisotime -h 10 -mod prem -deg 10 -ph P 
+ $ anisotime -h 10 -mod prem -deg 60 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod iprem -deg 100 -ph Pdiff 
+ $ anisotime -h 30 -mod prem -deg 30 -ph S -SH 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph P,S 
+ $ anisotime -h 30 -mod prem -deg 30 -ph S -SV 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph ScS –rs –o \path\to\scs.rcs 
+ $ anisotime -h 10 -mod prem -deg 10 -ph P 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod prem -deg 30 -ph S -SH 
+ $ anisotime -h 30 -mod iprem -deg 100 -ph Pdiff 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod prem -deg 30 -ph S -SV 
+ $ anisotime -h 30 -mod iprem -deg 30 -ph P,S 
 ```
 
 ```
- $ /path/to/anisotime -h 30 -mod iprem -deg 30 -ph P,S -eps -o \path\to\out 
+ $ anisotime -h 30 -mod iprem -deg 30 -ph ScS –rs –o \path\to\scs.rcs 
+```
+
+```
+ $ anisotime -h 30 -mod iprem -deg 30 -ph P,S -eps -o \path\to\out 
 ```
   
 
