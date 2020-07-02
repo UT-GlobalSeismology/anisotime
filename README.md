@@ -92,7 +92,8 @@ For instance, if you want to see the usage, you can execute as below:
  $ anisotime -help
 ```
 
-Examples
+### Examples
+
 ```$``` is a prompt. ```anisotime``` should be in PATH, otherwise it should be replaced as ```/path/to/anisotime```
 ```
  $ anisotime -h 10 -mod prem -deg 60 
