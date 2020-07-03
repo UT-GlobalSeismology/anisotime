@@ -3,8 +3,7 @@
 
 ![version](https://img.shields.io/badge/version-1.3.7-yellow.svg)
 ![release](https://img.shields.io/badge/release-Eulmore-yellow.svg)
-![aLicense](https://img.shields.io/badge/license-Apache--2-blue.svg?style=flat)
-![oLicense](https://img.shields.io/badge/license-Oracle-blue.svg?style=flat)
+![aLicense](https://img.shields.io/badge/license-GPL--3-blue.svg?style=flat)
 ![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
 
 ANISOtime is a utility package mainly to compute travel time in a laterally homogeneous,
@@ -155,8 +154,8 @@ If you want to create P and S wave record sections for an epicentral distance ra
 ```
 Without ```-o```, it shows the result in the standard output.
 
-
-### Copyright
-ANISOtime 1.3.7.23b (Eulmore) Copyright © 2015-2020 Kensuke Konishi, Anselme Bourgeaud, Kenji Kawai and Robert J. Geller 
-
+## Copyright and Licence
+ANISOtime Copyright © 2020 Kensuke Konishi, Anselme Bourgeaud, Kenji Kawai and Robert J. Geller   
+Licensed under [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)  
+Last updated Jul 3, 2020
  
