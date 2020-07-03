@@ -1,4 +1,4 @@
-# anisotime
+# ANISOtime
 
 
 ![version](https://img.shields.io/badge/version-1.3.7-yellow.svg)
@@ -153,6 +153,9 @@ If you want to create P and S wave record sections for an epicentral distance ra
  $ anisotime -rs start,end,interval -ph P,S -mod prem -o /path/to/out
 ```
 Without ```-o```, it shows the result in the standard output.
+
+### Source code
+You can see source codes used in ANISOtime in [Kibrary](https://github.com/kensuke1984/Kibrary).
 
 ## Copyright and Licence
 ANISOtime Copyright © 2020 Kensuke Konishi, Anselme Bourgeaud, Kenji Kawai and Robert J. Geller   
