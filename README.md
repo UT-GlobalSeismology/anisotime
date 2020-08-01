@@ -15,7 +15,8 @@ It is required to run ANISOtime.
 
 # INSTALLATION
 
-For users [Windows](#for-windows-users), [macOS and Linux](#for-macos-or-linux-users).
+For users [Windows](#for-windows-users), [macOS and Linux](#for-macos-or-linux-users).  
+The jar file for ANISOtime can be downloaded from [here](https://bit.ly/33hAaQy).
 
 ### For macOS or Linux users:
  
