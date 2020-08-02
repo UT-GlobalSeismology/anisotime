@@ -1,8 +1,8 @@
 # ANISOtime
 
 
-![version](https://img.shields.io/badge/version-1.3.7-yellow.svg)
-![release](https://img.shields.io/badge/release-Eulmore-yellow.svg)
+![version](https://img.shields.io/badge/version-1.3.8-yellow.svg)
+![release](https://img.shields.io/badge/release-Taoyuan-yellow.svg)
 ![aLicense](https://img.shields.io/badge/license-GPL--3-blue.svg?style=flat)
 ![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
 
@@ -103,6 +103,11 @@ For instance, if you want to see the usage, you can execute as below:
 ```
  $ anisotime -h 10 -mod prem -deg 10 -ph P 
 # this command returns values for P phase with epicentral distance of 10 deg from an event (depth 10 km) under the anisotropic PREM structure.
+```
+
+```
+ $ anisotime -h 10 -mod prem -deg 190 -ph PKJKP 
+# this command returns values for PKJKP phase with epicentral distance of 190 deg from an event (depth 10 km) under the anisotropic PREM structure.
 ```
 
 ```
