@@ -59,6 +59,9 @@ Software and documents, Copyright © 2015-2020 Kensuke Konishi, Anselme Bourgeau
 
 
 
+ここより下は削除ということですよね？
+
+
 # USAGE
 ## GUI
 If you want to use *anisotime* in its GUI mode, execute *anisotime* as below:
