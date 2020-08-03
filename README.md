@@ -39,16 +39,6 @@ Batch file for Windows can be downloaded [here](https://bit.ly/2QUnqJr).
     // You can easily get this path when you drag and drop the file on the prompt.
     $ "/path/of/anisotime.bat" (options)
 
-# Velocity model
-*anisotime* includes the following well-known velocity structures:  
-[PREM](http://ds.iris.edu/ds/products/emc-prem/)(prem)  
-[AK135](http://ds.iris.edu/ds/products/emc-ak135-f/)(ak135)  
-[Isotropic PREM](http://www.sciencedirect.com/science/article/pii/0031920181900467)(iprem)
-
-Names in the parenthesis are to be used as a model name in CLI.
-
-Hereinafter, ```/path/to/Kibrary/bin``` is assumed to be in PATH.
-
 # CONTACT US 
 
 Please send email to XXXX@XXXX using the subject line “ANISOtime Help” if you have any questions or comments. 
@@ -61,6 +51,16 @@ Software and documents, Copyright © 2015-2020 Kensuke Konishi, Anselme Bourgeau
 
 # ここより下は削除ということですよね？
 
+
+# Velocity model
+*anisotime* includes the following well-known velocity structures:  
+[PREM](http://ds.iris.edu/ds/products/emc-prem/)(prem)  
+[AK135](http://ds.iris.edu/ds/products/emc-ak135-f/)(ak135)  
+[Isotropic PREM](http://www.sciencedirect.com/science/article/pii/0031920181900467)(iprem)
+
+Names in the parenthesis are to be used as a model name in CLI.
+
+Hereinafter, ```/path/to/Kibrary/bin``` is assumed to be in PATH.
 
 # USAGE
 ## GUI
