@@ -10,7 +10,7 @@ Please [verify](https://java.com/ja/download/installed8.jsp) that you have the J
 
 # USER MANUAL
 
-The user manual is included in the software, but it also may be viewed [here](https://bit.ly/3kvSCuF).   
+The user manual is included in the software, but it also may be viewed [here](https://java.com/en/download/installed8.jsp).   
 
 # DOWNLOAD AND INSTALLATION
 
