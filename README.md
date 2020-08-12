@@ -23,7 +23,7 @@ The current version is 1.3.8 (Taoyuan). Last updated on 07 AUG 2020.
 
 # CONTACT US 
 
-Please send email to ut.globalseis@googlegroups.com using the subject line “ANISOtime Help” if you have any questions or comments. 
+Please send email to ut-globalseis@googlegroups.com using the subject line “ANISOtime Help” if you have any questions or comments. 
 
 # Copyright
 
