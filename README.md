@@ -6,11 +6,11 @@
 ![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
 
 ANISOtime is a utility package for computing travel times of seismic waves in a laterally homogeneous, transversely isotropic (TI), spherically symmetric medium. This is free software developed by researchers presently or formerly affiliated with the global seismology group of the University of Tokyo. 
-Please [verify](https://java.com/ja/download/installed8.jsp) that you have the Java Runtime Environment (8+) installed before you proceed further. This is required to run ANISOtime.
+Please [verify](https://java.com/en/download/installed8.jsp) that you have the Java Runtime Environment (8+) installed before you proceed further. This is required to run ANISOtime.
 
 # USER MANUAL
 
-The user manual is included in the software, but it also may be viewed [here](https://java.com/en/download/installed8.jsp).   
+The user manual is included in the software, but it also may be viewed [here](https://bit.ly/3ajBKCM).   
 
 # DOWNLOAD AND INSTALLATION
 
