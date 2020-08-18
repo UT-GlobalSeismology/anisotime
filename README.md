@@ -19,7 +19,7 @@ For [macOS](https://bit.ly/2Xdq5QI)<br>
 For [Linux](https://bit.ly/2Xdq5QI)
 
 Please note that the program automatically updates when a new version is released. 
-The current version is 1.3.8 (Taoyuan). Last updated on 07 AUG 2020.
+The current version is 1.3.8 (Owase). Last updated on 18 AUG 2020.
 
 # CONTACT US 
 
