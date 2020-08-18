@@ -1,7 +1,7 @@
 # UT-GlobalSeismology/ANISOtime
 
 ![version](https://img.shields.io/badge/version-1.3.8-yellow.svg)
-![release](https://img.shields.io/badge/release-Taoyuan-yellow.svg)
+![release](https://img.shields.io/badge/release-Owase-yellow.svg)
 ![aLicense](https://img.shields.io/badge/license-GPL--3-blue.svg?style=flat)
 ![Java8](https://img.shields.io/badge/dependencies-JRE%208-brightgreen.svg)
 
