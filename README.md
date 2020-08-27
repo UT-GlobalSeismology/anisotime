@@ -22,7 +22,7 @@ Please note that the program automatically updates when a new version is release
 The current version is 1.3.8 (Owase). Last updated on 18 AUG 2020.
 
 # GETTING STARTED
-1. [verify](https://java.com/en/download/installed8.jsp) that you have the most recent version of Java installed on your machine.
+1. [Verify](https://java.com/en/download/installed8.jsp) that you have the most recent version of Java installed on your machine.
 2. Download/Install:<br>
     - Windows users: Download the file "anisotime.bat" from the above link and move it to your desktop (or some other folder where you want to use it).<br>
     - macOS/Unix/Linux users: Dowload the file "anisotime" from the above link. Open the "Terminal" app, navigate to the place where the downloaded file is stored, and change the user permissions of the file by typing ```chmod +x anisotime```.
