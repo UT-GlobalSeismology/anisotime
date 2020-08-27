@@ -21,6 +21,17 @@ For [Linux](https://bit.ly/2Xdq5QI)
 Please note that the program automatically updates when a new version is released. 
 The current version is 1.3.8 (Owase). Last updated on 18 AUG 2020.
 
+# GETTING STARTED
+1. [verify](https://java.com/en/download/installed8.jsp) that you have the most recent version of Java installed on your machine.
+2. Download/Install:<br>
+    - Windows users: Download the file "anisotime.bat" from the above link and move it to your desktop (or some other folder where you want to use it).<br>
+    - macOS/Unix/Linux users: Dowload the file "anisotime" from the above link. Open the "Terminal" app, navigate to the place where the downloaded file is stored, and change the user permissions of the file by typing ```chmod +x anisotime```.
+3. Launch ANISOtime:<br>
+    - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the programs. Sorry for this inconvenience.)<br>
+    - maxOS/Unix/Linux users: in the terminal app, type ```./anisotime```.
+4. If you need more information download the User Guide from this page, or read it through the Help tab in ANISOtime after you launch it.
+
+
 # CONTACT US 
 
 Please send email to ut-globalseis@googlegroups.com using the subject line “ANISOtime Help” if you have any questions or comments. 
