@@ -8,9 +8,9 @@
 ANISOtime is a utility package for computing travel times of seismic waves in a laterally homogeneous, transversely isotropic (TI), spherically symmetric medium. This is free software developed by researchers presently or formerly affiliated with the global seismology group of the University of Tokyo. 
 Please [verify](https://java.com/en/download/installed8.jsp) that you have the Java Runtime Environment (8+) installed before you proceed further. This is required to run ANISOtime.
 
-# USER MANUAL
+# USER GUIDE
 
-The user manual is included in the software, but it also may be viewed [here](https://github.com/UT-GlobalSeismology/anisotime/blob/master/user_guide.pdf).   
+The User Guide is included in the software, but it also may be viewed [here](https://github.com/UT-GlobalSeismology/anisotime/blob/master/user_guide.pdf).   
 
 # DOWNLOAD AND INSTALLATION
 
@@ -29,7 +29,7 @@ The current version is 1.3.8 (Owase). Last updated on 18 AUG 2020.
 3. Launch ANISOtime:<br>
     - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the programs. Sorry for this inconvenience.)<br>
     - maxOS/Unix/Linux users: in the terminal app, type ```./anisotime```.
-4. If you need more information download the User Guide from this page, or read it through the Help tab in ANISOtime after you launch it.
+4. If you need more information download the [User Guide](https://github.com/UT-GlobalSeismology/anisotime/blob/master/user_guide.pdf), or read it through the Help tab in ANISOtime after you launch it.
 
 
 # CONTACT US 
