@@ -10,13 +10,13 @@ Please [verify](https://java.com/en/download/installed8.jsp) that you have the J
 
 # USER GUIDE
 
-The User Guide is included in the software, but it also may be viewed [here](https://bit.ly/32A4rIi).   
+The User Guide is included in the software, but it also may be viewed [here](https://bit.ly/3hFNUZH).   
 
 # DOWNLOAD AND INSTALLATION
 
-For [Windows](https://bit.ly/2EAgVra)  
-For [macOS](https://bit.ly/2YM8qjH)  
-For [Linux](https://bit.ly/2YM8qjH)
+For [Windows](https://bit.ly/31CXCX5)  
+For [macOS](https://bit.ly/2DbS5NH)  
+For [Linux](https://bit.ly/2DbS5NH)
 
 Please note that the program automatically updates when a new version is released. 
 
@@ -29,7 +29,7 @@ Please note that the program automatically updates when a new version is release
 3. Launch ANISOtime:<br>
     - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the programs. Sorry for this inconvenience.)<br>
     - maxOS/Unix/Linux users: in the terminal app, type ```./anisotime```.
-4. If you need more information download the [User manual](https://bit.ly/32A4rIi), or read it through the Help tab in ANISOtime after you launch it.
+4. If you need more information download the [User guide](https://bit.ly/3hFNUZH), or read it through the Help tab in ANISOtime after you launch it.
 
 
 # CONTACT US 
