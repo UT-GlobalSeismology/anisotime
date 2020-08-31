@@ -27,8 +27,8 @@ Please note that the program automatically updates when a new version is release
     - Windows users: Download the file "anisotime.bat" from the above link and move it to your desktop (or some other folder where you want to use it).<br>
     - macOS/Unix/Linux users: Dowload the file "anisotime" from the above link. Open the "Terminal" app, navigate to the place where the downloaded file is stored, and change the user permissions of the file by typing ```chmod +x anisotime```.
 3. Launch ANISOtime:<br>
-    - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the programs. Sorry for this inconvenience.)<br>
-    - macOS/Unix/Linux users: in the terminal app, type ```./anisotime```.
+    - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the program. Sorry for this inconvenience.)<br>
+    - macOS/Unix/Linux users: in the terminal app, type ```./anisotime```. (We are still waiting for our "code signing certificate," so if you try to launch ANISOtime by directly clicking on the icon rather than through the terminal app, you may get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the program. Sorry for this inconvenience.)
 4. If you need more information download the [User guide](https://bit.ly/3hFNUZH), or read it through the Help tab in ANISOtime after you launch it.
 
 
