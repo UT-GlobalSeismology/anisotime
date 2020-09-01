@@ -29,7 +29,7 @@ Please note that the program automatically updates when a new version is release
 3. Launch ANISOtime:<br>
     - Windows users: click on the icon. (We are still waiting for our "code signing certificate," so you will get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the program. Sorry for this inconvenience.)<br>
     - macOS/Unix/Linux users: in the terminal app, type ```./anisotime```. (We are still waiting for our "code signing certificate," so if you try to launch ANISOtime by directly clicking on the icon rather than through the terminal app, you may get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the program. Sorry for this inconvenience.)
-4. If you need more information download the [User guide](https://github.com/UT-GlobalSeismology/anisotime/releases/download/anisotime/user_guide.pdf), or read it through the Help tab in ANISOtime after you launch it.
+4. If you need more information download the [User Guide](https://github.com/UT-GlobalSeismology/anisotime/releases/download/anisotime/user_guide.pdf), or read it through the Help tab in ANISOtime after you launch it.
 
 
 # CONTACT US 
