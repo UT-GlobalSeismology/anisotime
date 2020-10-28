@@ -10,7 +10,7 @@ Please [verify](https://java.com/en/download/installed8.jsp) that you have the J
 
 # USER GUIDE
 
-The User Guide is included in the software, but it also may be viewed [here](https://bit.ly/3hFNUZH).   
+The User Guide is included in the software, but it also may be viewed [here](https://github.com/UT-GlobalSeismology/anisotime/releases/download/anisotime/user_guide.pdf).   
 
 # DOWNLOAD AND INSTALLATION
 
