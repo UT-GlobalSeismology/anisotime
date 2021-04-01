@@ -31,6 +31,12 @@ Please note that the program automatically updates when a new version is release
     - macOS/Unix/Linux users: in the terminal app, type ```./anisotime```. (We are still waiting for our "code signing certificate," so if you try to launch ANISOtime by directly clicking on the icon rather than through the terminal app, you may get a warning message that the software is unverified. Please don’t worry, and authorize your machine to launch the program. Sorry for this inconvenience.)
 4. If you need more information download the [User Guide](https://bit.ly/3hFNUZH), or read it through the Help tab in ANISOtime after you launch it.
 
+# INPUT MODEL FILES
+
+Template input model files for ANISOtime can be found as below:
+- Polynomial Structure mode: [miasp_aniso.poly](https://github.com/UT-GlobalSeismology/anisotime/blob/master/miasp91_aniso.poly)
+- Named Discontinuity Structure mode: [miasp_aniso.nd](https://github.com/UT-GlobalSeismology/anisotime/blob/master/miasp91_aniso.nd)
+
 # SOURCE CODE
 
 The source code for ANISOtime can be downloaded [here](https://github.com/kensuke1984/Kibrary).
