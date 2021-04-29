@@ -37,6 +37,16 @@ Template input model files for ANISOtime can be found as below:
 - Polynomial Structure mode: [miasp_aniso.poly](https://github.com/UT-GlobalSeismology/anisotime/blob/master/miasp91_aniso.poly)
 - Named Discontinuity Structure mode: [miasp_aniso.nd](https://github.com/UT-GlobalSeismology/anisotime/blob/master/miasp91_aniso.nd)
 
+# Sample Homework Problem Using ANISOtime
+
+Using *ANISOtime*, compute the traveltimes for the isotropic PREM and anisotropic PREM models
+(for example, by using Record Section Mode) and discuss the geophysical implications of the
+following:
+1. Triplication phases related to the positive velocity discontinuities at depths of 410 and 660 km.
+2. The shadow zone related to the outer core.
+3. The difference in the traveltimes between SH and pseudo-SV waves due to the anisotropic structure in
+the depth range from 24.4 to 220 km.
+
 # SOURCE CODE
 
 The source code for ANISOtime can be downloaded [here](https://github.com/kensuke1984/Kibrary).
